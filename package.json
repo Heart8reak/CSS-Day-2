@@ -1,0 +1,15 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "animated loader",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Carlos Baez",
+  "license": "ISC",
+    "homepage": "https://Heart8reak.github/.com/CSS-Day-2",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
